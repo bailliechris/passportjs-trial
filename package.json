@@ -1,0 +1,15 @@
+{
+  "name": "passport-guide",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "bailliechris <bailliechristopher@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
